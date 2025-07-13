@@ -1,27 +1,78 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>- Air Quality Data Analysis and Forecasting projects  <br>- Data visualization dashboards using **Python (Pandas, Matplotlib, Seaborn)**  <br>- Personal projects involving **MySQL databases** for structured data storage and querying  <br>- Exploratory Data Analysis (EDA) combining Python and SQL workflows  <br><br>## 🌱 I'm currently learning<br>- **Advanced R programming** and statistical forecasting models  <br>- **MySQL query optimization** and database management  <br>- Building clean, modular Python scripts for data automation  <br>- Git, GitHub workflows, and collaborative coding best practices  <br><br>## 😄 Fun fact<br>I’m weirdly obsessed with writing clean, well-commented Python code — even for throwaway scripts.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:003973,100:000428&text=Sarabdeep%20Singh%20Bilkhu&fontColor=FFFFFF&fontSize=65&fontAlignY=40&desc=Data%20Craftsman%20%E2%80%A2%20Clean%20Code%20Seeker%20%E2%80%A2%20Analytics%20Enthusiast&descAlignY=60"/>
+</div>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.bilkhu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sarabdeep-Singh-Bilkhu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/s_bilkhu_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjhbilkhu2006@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SarabdeepSBilkhu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SarabdeepSBilkhu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarabdeepSBilkhu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SarabdeepSBilkhu&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SarabdeepSBilkhu&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0ED9F0&center=true&vCenter=true&width=435&lines=Turning+data+into+decisions+%F0%9F%93%8A;Python%2C+R%2C+SQL+%E2%80%94+my+playground;Building+visuals+people+can+understand;Automating+the+boring+stuff+daily">
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SarabdeepSBilkhu&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📌 Who Am I?
+
+A curious mind blending numbers, logic, and design. I work on practical, problem-solving projects that make sense and create impact. Data isn’t just numbers to me — it’s a story waiting to be cleaned, shaped, and told.
+
+- 📊 Love working with **Python, R, SQL**
+- 🖥️ Passionate about creating **clear, readable code**
+- 🌱 Always learning new tools, better practices, and smart hacks  
+- 🎯 Focused on small, meaningful improvements every day
+
+---
+
+## 🌐 Digital Presence
+
+<p align="center">
+  <a href="https://linkedin.com/in/Sarabdeep-Singh-Bilkhu"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://instagram.com/s.bilkhu"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"></a>
+  <a href="mailto:sanjhbilkhu2006@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail"></a>
+  <a href="https://x.com/s_bilkhu_"><img src="https://img.shields.io/badge/X-Thoughts-black?style=for-the-badge&logo=x"></a>
+</p>
+
+---
+
+## ⚒️ Current Projects
+
+- 📈 **Air Quality Forecasting** — making sense of messy environmental data  
+- 🐍 **Python Automation Scripts** — reducing repetitive grunt work  
+- 📊 **MySQL Data Handling** — clean storage, smooth querying, better insights  
+
+---
+
+## 📚 Currently Learning
+
+- Advanced **R for Time-Series Forecasting**  
+- Python scripting for **data automation & reporting**  
+- Clean **SQL structuring & optimization**
+- Git workflows and collaborative version control  
+
+---
+
+## 💾 Toolkit
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,cpp,javascript,flask,numpy,pandas,git,vscode&theme=dark" />
+</div>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SarabdeepSBilkhu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarabdeepSBilkhu&layout=compact&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## ✨ Personal Motto
+
+<p align="center">
+  <i>"Clean code. Clear visuals. Useful insights."</i>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003973,100:000428&height=120&section=footer"/>
+</div>
