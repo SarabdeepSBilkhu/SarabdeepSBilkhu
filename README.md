@@ -50,7 +50,7 @@ A curious mind blending numbers, logic, and design. I work on practical, problem
 ## 💾 Toolkit
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,cpp,javascript,flask,numpy,pandas,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,cpp,javascript,flask,git,vscode&theme=dark" />
 </div>
 
 ---
