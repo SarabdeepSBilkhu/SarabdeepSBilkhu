@@ -145,13 +145,6 @@
   </tr>
 </table>
 
-
-<br>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SarabdeepSBilkhu&theme=redical&bg_color=1A1A1A&color=87CEEB&line=87CEEB&point=FFFFFF&hide_border=true" />
-</div>
-
 <br>
 
 <h3 align="center" style="color: #87CEEB; font-style: italic; font-family: 'Times New Roman', serif;">🌟 Published Treatises 🌟</h3>
@@ -160,40 +153,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarabdeepSBilkhu&repo=CampusSync&theme=radical&hide_border=true&bg_color=1A1A1A" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarabdeepSBilkhu&repo=HoloCruze&theme=radical&hide_border=true&bg_color=1A1A1A" />
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="opacity: 0.5;">
-</div>
-
-<h3 align="center" style="color: #87CEEB; font-style: italic; font-family: 'Times New Roman', serif;">🎯 Academic Aspirations for 2025 🎯</h3>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" style="color: white; padding: 10px;">
-        🧠<br>
-        Learn deeply, think critically, and simplify the complex
-      </td>
-      <td align="center" style="color: white; padding: 10px;">
-        🔧<br>
-        Build human-centered tech that bridges design, data, and impact
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<h3 align="center" style="color: #87CEEB; font-style: italic; font-family: 'Times New Roman', serif;">⚡ A Scholar's Meditation ⚡</h3>
-
-<p align="center" style="color: white; line-height: 1.8;">
-  "In the quiet moments of coding and the focused hours of analysis, I find my passion. 
-  Each algorithm is a step toward understanding, every insight a piece of the puzzle. 
-  I'm not just a data scientist — I'm someone who loves discovering patterns, 
-  solving problems, and helping others make sense of the world through data."
-</p>
 
 <br>
 
