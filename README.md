@@ -136,7 +136,7 @@
 
 <div align="center">
   <img width="95%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=SarabdeepSBilkhu&theme=radical&hide_border=true" />
+       src="https://github-readme-activity-graph.vercel.app/graph?username=SarabdeepSBilkhu&theme=redical&hide_border=true" />
 </div>
 
 <br>
