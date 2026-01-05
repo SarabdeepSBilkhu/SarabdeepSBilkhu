@@ -131,26 +131,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="opacity: 0.5;">
 </div>
-<h3 align="center">📊 Foundry of Ideas 📊</h3>
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="200em"
-           src="https://github-readme-stats.vercel.app/api?username=SarabdeepSBilkhu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&v=3" />
-    </td>
-    <td>
-      <img height="200em"
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarabdeepSBilkhu&layout=compact&hide_border=true&theme=radical&v=3" />
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">🌟 Published Treatises 🌟</h3>
+<h3 align="center">📈 Contribution Activity 📈</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarabdeepSBilkhu&repo=SMPHorizon_Bot&hide_border=true&theme=radical&v=3" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarabdeepSBilkhu&repo=backend-in-a-box&hide_border=true&theme=radical&v=3" />
+  <img width="95%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=SarabdeepSBilkhu&theme=radical&hide_border=true" />
 </div>
 
 <br>
