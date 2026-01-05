@@ -150,8 +150,8 @@
 <h3 align="center" style="color: #87CEEB; font-style: italic; font-family: 'Times New Roman', serif;">🌟 Published Treatises 🌟</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarabdeepSBilkhu&repo=CampusSync&theme=radical&hide_border=true&bg_color=1A1A1A" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarabdeepSBilkhu&repo=HoloCruze&theme=radical&hide_border=true&bg_color=1A1A1A" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarabdeepSBilkhu&repo=SMPHorizonBot&theme=radical&hide_border=true&bg_color=1A1A1A" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarabdeepSBilkhu&repo=backend-in-a-box&theme=radical&hide_border=true&bg_color=1A1A1A" />
 </div>
 
 <br>
