@@ -66,33 +66,37 @@
 
 <!-- Current Research Section -->
 <h3 align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt1dWdpaHc1bWtlcHUwYjQ2MDFxdHlsdWcybTA0dmJkc2RuaDQ3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M3nwJpDEUxkCzVftCi/giphy.gif" width="25"> 
-  <span style="background: linear-gradient(to right, #87CEEB, #4682B4, #1E90FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-style: italic; font-family: 'Times New Roman', serif;">ONGOING PROJECTS</span>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt1dWdpaHc1bWtlcHUwYjQ2MDFxdHlsdWcybTA0dmJkc2RuaDQ3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M3nwJpDEUxkCzVftCi/giphy.gif" width="25">
+  <span style="background: linear-gradient(to right, #87CEEB, #4682B4, #1E90FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-style: italic; font-family: 'Times New Roman', serif;">
+    ONGOING PROJECTS
+  </span>
 </h3>
-
 <table align="center" border="none">
   <tr>
     <td align="center" width="50%">
-      <span style="font-size: 36px;">🚗</span>
+      <b style="color: #87CEEB; font-style: italic; font-family: 'Times New Roman', serif;">
+        "Devr.AI – AOSSIE"
+      </b>
       <br>
-      <b style="color: #87CEEB; font-style: italic; font-family: 'Times New Roman', serif;">"HoloCruze: Hand Gesture Controlled Robotics"</b>
-      <br>
-      <span style="color: white;">HoloCruze is a hand gesture-controlled robotic car that uses RF communication for seamless wireless control. 
-      The system includes a gesture-sensing controller built with an Arduino Nano and a car unit powered by an Arduino Uno alternative, 
-      controlled via RF transmitter/receiver modules.</span>
+      <span style="color: white;">
+        Active open-source contributor at AOSSIE.org working on Devr.AI, an intelligent developer-relations assistant. 
+        Contributions focus on prompt engineering, agent classification logic, system architecture refinement, and 
+        improving precision in developer query routing.
+      </span>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="50" height="50">
+      <b style="color: #87CEEB; font-style: italic; font-family: 'Times New Roman', serif;">
+        "PictoPy"
+      </b>
       <br>
-      <b style="color: #87CEEB; font-style: italic; font-family: 'Times New Roman', serif;">"CampusSync: Student Life Platform"</b>
-      <br>
-      <span style="color: white;">CampusSync is a streamlined web platform that centralizes essential utilities for college students. 
-      It brings together timetables, notes, placement updates, and roommate coordination in one clean, responsive interface 
-      to reduce chaos and boost productivity.</span>
+      <span style="color: white;">
+        Contributor to PictoPy, a Python-based visualization and image-processing project. 
+        Work includes feature development, codebase optimization, documentation improvements, 
+        and maintaining alignment with modern Python tooling standards.
+      </span>
     </td>
   </tr>
 </table>
+
 
 <br>
 
