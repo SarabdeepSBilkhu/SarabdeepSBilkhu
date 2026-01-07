@@ -115,13 +115,13 @@
 <h4 align="center" style="color: #4682B4; font-style: italic; font-family: 'Times New Roman', serif;">✧ Technical Skills ✧</h4>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,javascript,cpp,html&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,html&perline=5&theme=dark" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,git,vscode,github&perline=4&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,vscode,git,github&perline=4&theme=dark" />
 </div>
 
 <br>
