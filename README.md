@@ -34,18 +34,6 @@
     <td align="center" width="33%">
       <a href="https://github.com/SarabdeepSBilkhu"><img width="85%" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A" alt="GitHub"></a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://x.com/s_bilkhu_"><img width="85%" src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1A1A1A" alt="X"></a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://instagram.com/s.bilkhu"><img width="85%" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1A1A1A" alt="Instagram"></a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://kaggle.com/sarabdeepsbilkhu"><img width="85%" src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=1A1A1A" alt="Kaggle"></a>
-    </td>
-  </tr>
 </table>
 
 <br>
