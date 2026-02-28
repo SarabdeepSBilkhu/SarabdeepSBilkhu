@@ -45,46 +45,10 @@
 <h2 align="center" style="color: #87CEEB; font-style: italic; font-family: 'Times New Roman', serif;">✨ Thought Engineer ✨</h2>
 
 <p align="center" style="color: white; line-height: 1.8;">
-  I don't just analyze data — I explore the stories hidden within numbers. Every algorithm is a tool for discovery, 
+  I don't just analyze data, I explore the stories hidden within numbers. Every algorithm is a tool for discovery, 
   every visualization a window into understanding. My journey in data science has taught me that patterns are everywhere, 
   waiting to be discovered and shared.
 </p>
-
-<br>
-
-<!-- Current Research Section -->
-<h3 align="center">
-  <span style="background: linear-gradient(to right, #87CEEB, #4682B4, #1E90FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-style: italic; font-family: 'Times New Roman', serif;">
-    ONGOING PROJECTS
-  </span>
-</h3>
-<table align="center" border="none">
-  <tr>
-    <td align="center" width="50%">
-      <b style="color: #87CEEB; font-style: italic; font-family: 'Times New Roman', serif;">
-        "Devr.AI – AOSSIE"
-      </b>
-      <br>
-      <span style="color: white;">
-        Active open-source contributor at AOSSIE.org working on Devr.AI, an intelligent developer-relations assistant. 
-        Contributions focus on prompt engineering, agent classification logic, system architecture refinement, and 
-        improving precision in developer query routing.
-      </span>
-    </td>
-    <td align="center" width="50%">
-      <b style="color: #87CEEB; font-style: italic; font-family: 'Times New Roman', serif;">
-        "PictoPy"
-      </b>
-      <br>
-      <span style="color: white;">
-        Contributor to PictoPy, a Python-based visualization and image-processing project. 
-        Work includes feature development, codebase optimization, documentation improvements, 
-        and maintaining alignment with modern Python tooling standards.
-      </span>
-    </td>
-  </tr>
-</table>
-
 
 <br>
 
