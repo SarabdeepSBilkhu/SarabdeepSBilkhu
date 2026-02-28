@@ -31,9 +31,6 @@
     <td align="center" width="33%">
       <a href="mailto:sanjhbilkhu2006@gmail.com"><img width="85%" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" alt="Email"></a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/SarabdeepSBilkhu"><img width="85%" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A" alt="GitHub"></a>
-    </td>
 </table>
 
 <br>
