@@ -14,15 +14,15 @@
 
 <br>
 
-## 👋 About Me
+## About Me
 
 I'm **Sarabdeep Singh Bilkhu**, a Software Engineering student and Full Stack Developer focused on building reliable, maintainable, and scalable applications.
 
-My interests span web development, backend engineering, software architecture, databases, developer tooling, and applied AI systems. I enjoy transforming ideas into working products and solving complex technical challenges through structured engineering.
+My interests span web development, backend engineering, software architecture, databases, developer tooling, and applied artificial intelligence. I enjoy transforming ideas into working products and solving complex technical challenges through structured engineering.
 
 <br>
 
-## 💻 What I Do
+## What I Do
 
 - Build full-stack web applications
 - Design backend systems and APIs
@@ -33,35 +33,35 @@ My interests span web development, backend engineering, software architecture, d
 
 <br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### AlgoTrace
-Algorithm visualization platform featuring step-by-step execution replay, interactive visualizations, and integrated code editing.
+An algorithm visualization platform featuring step-by-step execution replay, interactive visualizations, and integrated code editing.
 
 ### Backend-in-a-Box
-Schema-driven framework that generates complete FastAPI backends from YAML definitions.
+A schema-driven framework that generates complete FastAPI backends from YAML definitions.
 
 ### ChatCash
-Banking platform built with Flask and MySQL featuring secure backend logic, API development, and database integration.
+A banking platform built with Flask and MySQL featuring secure backend logic, API development, and database integration.
 
 ### HemaSense
-Clinical reasoning engine that interprets blood-test results using deterministic diagnostic logic and evidence-based explanations.
+A clinical reasoning engine that interprets blood-test results using deterministic diagnostic logic and evidence-based explanations.
 
 ### IntelliKernel
-AI-assisted system optimization daemon that dynamically tunes operating system and kernel parameters.
+An AI-assisted system optimization daemon that dynamically tunes operating system and kernel parameters.
 
 ### Paranormix
-Explainable AI forensic analysis platform combining NLP, machine learning, rule engines, and evidence-grounded reasoning.
+An explainable AI forensic analysis platform combining NLP, machine learning, rule engines, and evidence-grounded reasoning.
 
 ### SMPHorizon Discord Bot
-Production-grade Discord bot supporting moderation, AI chat, XP systems, server monitoring, and persistent data storage.
+A production-grade Discord bot supporting moderation, AI chat, XP systems, server monitoring, and persistent data storage.
 
 ### TrackPoint
-Real-time vehicle tracking platform using GPS data, live synchronization, route visualization, and authentication systems.
+A real-time vehicle tracking platform using GPS data, live synchronization, route visualization, and authentication systems.
 
 <br>
 
-## 🛠️ Technologies
+## Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,html,css&theme=dark" />
@@ -87,7 +87,7 @@ Real-time vehicle tracking platform using GPS data, live synchronization, route 
 
 <br>
 
-## 📫 Contact
+## Contact
 
 <div align="center">
 
@@ -103,7 +103,7 @@ Real-time vehicle tracking platform using GPS data, live synchronization, route 
 
 <br>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img width="95%"
