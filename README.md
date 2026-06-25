@@ -59,6 +59,8 @@ A production-grade Discord bot supporting moderation, AI chat, XP systems, serve
 ### TrackPoint
 A real-time vehicle tracking platform using GPS data, live synchronization, route visualization, and authentication systems.
 
+### VitalDiary
+A personal health tracking platform that enables users to securely record, monitor, and analyze key health metrics over time.
 <br>
 
 ## Technologies
